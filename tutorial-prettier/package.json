@@ -1,0 +1,7 @@
+{
+  "name": "prettier-tutorial",
+  "licensel": "UNLICENSED",
+  "devDependencies": {
+    "prettier": "^2"
+  }
+}
