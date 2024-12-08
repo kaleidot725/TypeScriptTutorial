@@ -1,3 +1,4 @@
+// @ts-ignore
 var name = "taro";
 console.log(name);
 
